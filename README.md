@@ -17,4 +17,16 @@ submit to his manager, Ravi, who comes from a non-technical background.
 - Data Analysis: Analyzed sales, profit, products, orders, payment methods and states.
 - Calculated important business metrics such as total sales, profit margin and average order value.
 - Dashboard Creation: Created charts, graphs and pivot tables for each question and merged all to make a dashboard
+## Project Insights
+Total Sales: ₹15.58 Crore.
+Total Profit: ₹3.32 Crore.
+Total Orders: 10,000.
+Total Units Sold: 24,926.
+Average Order Value: ₹15,578.99.
+Profit Margin: 21.29%.
+## Project Conclusion
+The Amazon India Sales Dashboard provides a clear understanding of overall business performance.
+It helps identify top-performing products, categories, payment methods, fulfilment methods and states.
+This project demonstrates how Excel can be used for data analysis, KPI tracking, dashboard creation and business decision-making.
+
 
