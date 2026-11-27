@@ -19,7 +19,7 @@ submit to his manager, Ravi, who comes from a non-technical background.
 - Calculated important business metrics such as total sales, profit margin and average order value.
 - Dashboard Creation: Created charts, graphs and pivot tables for each question and merged all to make a dashboard
 ## Dashboard 
-
+<a href="https://github.com/Swethadalavaee/Amazon-India-Dashboard/blob/main/Dashboard%20image.png">dashboard</a>
 ## Project Insights
 - Total Sales: ₹15.58 Crore.
 - Total Profit: ₹3.32 Crore.
