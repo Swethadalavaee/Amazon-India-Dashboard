@@ -10,7 +10,8 @@ submit to his manager, Ravi, who comes from a non-technical background.
 - How many orders are completed or lost? 
 - Which payment methods generate more business? 
 - Which fulfilment method performs best? 
-- Which states generate more business? 
+- Which states generate more business?
+-dashboard interaction <a href="
 ## Project Process 
 - Data Understanding: Reviewed columns such as Order Date, Category, Product, Quantity, Sales, Profit and Order Status.
 - Data Cleaning: Checked the dataset and prepared the data for analysis.
