@@ -1,2 +1,4 @@
-# Amazon-India-Dashboard
-This project focuses on analyzing Amazon India sales data using Microsoft Excel.  It provides insights into sales, profit, product performance, order status, payment methods, and geographical performance. An interactive dashboard helps users understand business performance and make better decisions.
+# Amazon India Dashboard
+## Project Objective
+The main objective of this project is to design a simple and easy-to-understand management dashboard for Manoj to
+submit to his manager, Ravi, who comes from a non-technical background.
